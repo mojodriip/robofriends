@@ -1,2 +1,2 @@
 # ROBO FRIENDS
-Simple React Lesson / Project
+React Portfolio Project
