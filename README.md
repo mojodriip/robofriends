@@ -1,2 +1,2 @@
-# robofriends
-React Lesson
+# ROBO FRIENDS
+Simple React Lesson / Project
